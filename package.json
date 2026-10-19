@@ -1,7 +1,7 @@
 {
   "name": "nodejs-clean-starter",
   "version": "1.0.0",
-  "description": "",
+  "description": "A TypeScript and Express REST API starter focused on schema validation, centralized error handling, and automated testing.",
   "main": "index.js",
   "scripts": {
     "dev": "ts-node-dev --respawn --transpile-only src/server.ts",

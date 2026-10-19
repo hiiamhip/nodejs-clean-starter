@@ -1,6 +1,6 @@
 # 🛡️ Node.js Clean Starter Kit
 
-> A minimalist, production-ready, and enterprise-grade TypeScript REST API template designed with an **Agnostic Core** philosophy.
+> An unopinionated TypeScript REST API starter focused on schema validation, centralized error handling, and testable design.
 
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.9-blue.svg?logo=typescript)](https://www.typescriptlang.org/)
 [![Node.js](https://img.shields.io/badge/Node.js-22.x-green.svg?logo=node.js)](https://nodejs.org/)
